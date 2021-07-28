@@ -1,0 +1,4000 @@
+A: 30   B: 2   C: 33 
+Disriminant value (-3956) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 0   C: 7 
+Disriminant value (-1232) < 0. 
+Equation does not have solutions.
+
+A: 36   B: 34   C: 0.
+Discriminant value (1156) > 0.
+Equation has 2 solutions: 0 ; -0,94
+
+A: 32   B: 4   C: 23 
+Disriminant value (-2928) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 47   C: 10.
+Discriminant value (1249) > 0.
+Equation has 2 solutions: -0,24 ; -1,72
+
+A: 16   B: 28   C: 15 
+Disriminant value (-176) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 49   C: 43 
+Disriminant value (-695) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 21   C: 9 
+Disriminant value (-747) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 6   C: 3 
+Disriminant value (-72) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 47   C: 20.
+Discriminant value (1649) > 0.
+Equation has 2 solutions: -0,46 ; -6,26
+
+A: 16   B: 4   C: 21 
+Disriminant value (-1328) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 19   C: 33 
+Disriminant value (-3203) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 5   C: 35 
+Disriminant value (-4875) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 28   C: 27 
+Disriminant value (-404) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 5   C: 6 
+Disriminant value (-767) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 13   C: 36 
+Disriminant value (-1127) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 31   C: 22.
+Discriminant value (961) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 22   B: 18   C: 7 
+Disriminant value (-292) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 47   C: 31 
+Disriminant value (-767) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 35   C: 44 
+Disriminant value (-2999) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 29   C: 36.
+Discriminant value (409) > 0.
+Equation has 2 solutions: -1,46 ; -8,2
+
+A: 30   B: 15   C: 0.
+Discriminant value (225) > 0.
+Equation has 2 solutions: 0 ; -0,5
+
+A: 1   B: 47   C: 28.
+Discriminant value (2097) > 0.
+Equation has 2 solutions: -0,6 ; -46,4
+
+A: 27   B: 31   C: 22 
+Disriminant value (-1415) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 7   C: 20 
+Disriminant value (-2271) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 49   C: 15.
+Discriminant value (1501) > 0.
+Equation has 2 solutions: -0,34 ; -2,92
+
+A: 2   B: 49   C: 42.
+Discriminant value (2065) > 0.
+Equation has 2 solutions: -0,89 ; -23,61
+
+A: 16   B: 7   C: 15 
+Disriminant value (-911) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 44   C: 35 
+Disriminant value (-4784) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 2   C: 22 
+Disriminant value (-1228) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 10   C: 20.
+Discriminant value (20) > 0.
+Equation has 2 solutions: -2,76 ; -7,24
+
+A: 41   B: 7   C: 49 
+Disriminant value (-7987) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 3   C: 39 
+Disriminant value (-6231) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 8   C: 16 
+Disriminant value (-320) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 22   C: 0.
+Discriminant value (484) > 0.
+Equation has 2 solutions: 0 ; -2,75
+
+A: 49   B: 42   C: 11 
+Disriminant value (-392) < 0. 
+Equation does not have solutions.
+
+A: 36   B: 8   C: 47 
+Disriminant value (-6704) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 22   C: 35 
+Disriminant value (-1616) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 37   C: 21.
+Discriminant value (1285) > 0.
+Equation has 2 solutions: -0,58 ; -36,42
+
+A: 20   B: 31   C: 21 
+Disriminant value (-719) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 37   C: 44 
+Disriminant value (-1095) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 25   C: 21.
+Discriminant value (205) > 0.
+Equation has 2 solutions: -1,07 ; -3,93
+
+A: 1   B: 37   C: 49.
+Discriminant value (1173) > 0.
+Equation has 2 solutions: -1,38 ; -35,62
+
+A: 21   B: 24   C: 46 
+Disriminant value (-3288) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 46   C: 41 
+Disriminant value (-2148) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 8   C: 34 
+Disriminant value (-3472) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 48   C: 1.
+Discriminant value (2244) > 0.
+Equation has 2 solutions: -0,02 ; -3,18
+
+A: 24   B: 27   C: 44 
+Disriminant value (-3495) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 35   C: 38 
+Disriminant value (-2575) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 40   C: 19 
+Disriminant value (-1060) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 20   C: 21 
+Disriminant value (-1868) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 41   C: 21.
+Discriminant value (169) > 0.
+Equation has 2 solutions: -0,78 ; -1,5
+
+A: 21   B: 3   C: 47 
+Disriminant value (-3939) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 47   C: 5.
+Discriminant value (1629) > 0.
+Equation has 2 solutions: -0,11 ; -1,51
+
+A: 11   B: 15   C: 33 
+Disriminant value (-1227) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 39   C: 26.
+Discriminant value (1521) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 43   B: 25   C: 29 
+Disriminant value (-4363) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 5   C: 33 
+Disriminant value (-4859) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 39   C: 9.
+Discriminant value (801) > 0.
+Equation has 2 solutions: -0,27 ; -1,68
+
+A: 0   B: 30   C: 40.
+Discriminant value (900) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 32   B: 16   C: 47 
+Disriminant value (-5760) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 43   C: 4.
+Discriminant value (1385) > 0.
+Equation has 2 solutions: -0,1 ; -1,38
+
+A: 25   B: 8   C: 4 
+Disriminant value (-336) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 4   C: 4 
+Disriminant value (-304) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 36   C: 0.
+Discriminant value (1296) > 0.
+Equation has 2 solutions: 0 ; -0,97
+
+A: 45   B: 13   C: 12 
+Disriminant value (-1991) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 24   C: 45 
+Disriminant value (-1224) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 41   C: 15.
+Discriminant value (961) > 0.
+Equation has 2 solutions: -0,42 ; -3
+
+A: 40   B: 40   C: 14 
+Disriminant value (-640) < 0. 
+Equation does not have solutions.
+
+A: 38   B: 47   C: 2.
+Discriminant value (1905) > 0.
+Equation has 2 solutions: -0,04 ; -1,19
+
+A: 11   B: 20   C: 23 
+Disriminant value (-612) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 46   C: 31.
+Discriminant value (1248) > 0.
+Equation has 2 solutions: -0,76 ; -5,81
+
+A: 8   B: 31   C: 22.
+Discriminant value (257) > 0.
+Equation has 2 solutions: -0,94 ; -2,94
+
+A: 29   B: 25   C: 31 
+Disriminant value (-2971) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 23   C: 20 
+Disriminant value (-1151) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 0   C: 18 
+Disriminant value (-1728) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 24   C: 26 
+Disriminant value (-2752) < 0. 
+Equation does not have solutions.
+
+A: 46   B: 40   C: 5.
+Discriminant value (680) > 0.
+Equation has 2 solutions: -0,15 ; -0,72
+
+A: 44   B: 20   C: 25 
+Disriminant value (-4000) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 39   C: 3.
+Discriminant value (1137) > 0.
+Equation has 2 solutions: -0,08 ; -1,14
+
+A: 39   B: 37   C: 10 
+Disriminant value (-191) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 8   C: 34 
+Disriminant value (-208) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 29   C: 40 
+Disriminant value (-4119) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 37   C: 32 
+Disriminant value (-1063) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 30   C: 49 
+Disriminant value (-6940) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 40   C: 17.
+Discriminant value (648) > 0.
+Equation has 2 solutions: -0,52 ; -2,34
+
+A: 44   B: 16   C: 39 
+Disriminant value (-6608) < 0. 
+Equation does not have solutions.
+
+A: 45   B: 5   C: 23 
+Disriminant value (-4115) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 15   C: 29 
+Disriminant value (-2675) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 13   C: 25 
+Disriminant value (-1531) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 26   C: 42 
+Disriminant value (-332) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 39   C: 38 
+Disriminant value (-1215) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 19   C: 15 
+Disriminant value (-899) < 0. 
+Equation does not have solutions.
+
+A: 36   B: 42   C: 20 
+Disriminant value (-1116) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 13   C: 36 
+Disriminant value (-3863) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 6   C: 9 
+Disriminant value (-1548) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 29   C: 30.
+Discriminant value (121) > 0.
+Equation has 2 solutions: -1,5 ; -3,33
+
+A: 7   B: 37   C: 22.
+Discriminant value (753) > 0.
+Equation has 2 solutions: -0,68 ; -4,6
+
+A: 13   B: 43   C: 31.
+Discriminant value (237) > 0.
+Equation has 2 solutions: -1,06 ; -2,25
+
+A: 36   B: 26   C: 43 
+Disriminant value (-5516) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 13   C: 16 
+Disriminant value (-87) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 13   C: 11 
+Disriminant value (-491) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 21   C: 41 
+Disriminant value (-5955) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 43   C: 20.
+Discriminant value (1049) > 0.
+Equation has 2 solutions: -0,53 ; -3,77
+
+A: 2   B: 7   C: 23 
+Disriminant value (-135) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 17   C: 42 
+Disriminant value (-2735) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 31   C: 9 
+Disriminant value (-371) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 11   C: 33 
+Disriminant value (-2519) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 48   C: 38 
+Disriminant value (-4384) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 5   C: 45 
+Disriminant value (-3395) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 34   C: 43 
+Disriminant value (-48) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 32   C: 28 
+Disriminant value (-1440) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 13   C: 49 
+Disriminant value (-419) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 4   C: 34 
+Disriminant value (-3248) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 45   C: 36 
+Disriminant value (-567) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 5   C: 29 
+Disriminant value (-1135) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 44   C: 26 
+Disriminant value (-3056) < 0. 
+Equation does not have solutions.
+
+A: 38   B: 49   C: 44 
+Disriminant value (-4287) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 34   C: 2.
+Discriminant value (884) > 0.
+Equation has 2 solutions: -0,06 ; -0,94
+
+A: 33   B: 20   C: 14 
+Disriminant value (-1448) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 20   C: 16 
+Disriminant value (-1072) < 0. 
+Equation does not have solutions.
+
+A: 45   B: 3   C: 8 
+Disriminant value (-1431) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 30   C: 25 
+Disriminant value (-1700) < 0. 
+Equation does not have solutions.
+
+A: 45   B: 15   C: 4 
+Disriminant value (-495) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 12   C: 27 
+Disriminant value (-4392) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 1   C: 15 
+Disriminant value (-1439) < 0. 
+Equation does not have solutions.
+
+A: 46   B: 34   C: 43 
+Disriminant value (-6756) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 20   C: 11.
+Discriminant value (48) > 0.
+Equation has 2 solutions: -0,82 ; -1,68
+
+A: 19   B: 18   C: 35 
+Disriminant value (-2336) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 38   C: 47 
+Disriminant value (-7768) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 20   C: 42 
+Disriminant value (-3968) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 1   C: 33 
+Disriminant value (-4619) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 23   C: 42 
+Disriminant value (-2495) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 33   C: 25 
+Disriminant value (-1611) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 3   C: 29 
+Disriminant value (-339) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 45   C: 36 
+Disriminant value (-1143) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 9   C: 32 
+Disriminant value (-1967) < 0. 
+Equation does not have solutions.
+
+A: 36   B: 36   C: 35 
+Disriminant value (-3744) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 14   C: 49 
+Disriminant value (-3920) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 26   C: 35 
+Disriminant value (-24) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 27   C: 42 
+Disriminant value (-3135) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 19   C: 44 
+Disriminant value (-4391) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 7   C: 10 
+Disriminant value (-391) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 6   C: 28 
+Disriminant value (-4892) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 19   C: 0.
+Discriminant value (361) > 0.
+Equation has 2 solutions: 0 ; -0,83
+
+A: 17   B: 4   C: 17 
+Disriminant value (-1140) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 47   C: 22 
+Disriminant value (-519) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 32   C: 28 
+Disriminant value (-4352) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 39   C: 33 
+Disriminant value (-459) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 13   C: 37 
+Disriminant value (-719) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 13   C: 47 
+Disriminant value (-6035) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 3   C: 6 
+Disriminant value (-159) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 26   C: 34 
+Disriminant value (-3812) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 10   C: 37 
+Disriminant value (-4932) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 22   C: 3.
+Discriminant value (184) > 0.
+Equation has 2 solutions: -0,17 ; -0,71
+
+A: 4   B: 13   C: 16 
+Disriminant value (-87) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 3   C: 9 
+Disriminant value (-1251) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 23   C: 28 
+Disriminant value (-3055) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 25   C: 44 
+Disriminant value (-1487) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 12   C: 29 
+Disriminant value (-1364) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 4   C: 44 
+Disriminant value (-1744) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 10   C: 42 
+Disriminant value (-3764) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 16   C: 15 
+Disriminant value (-1604) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 34   C: 28 
+Disriminant value (-3772) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 46   C: 36 
+Disriminant value (-2492) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 22   C: 10 
+Disriminant value (-876) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 10   C: 26 
+Disriminant value (-2500) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 21   C: 9 
+Disriminant value (-135) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 1   C: 39 
+Disriminant value (-4211) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 44   C: 28 
+Disriminant value (-80) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 19   C: 13 
+Disriminant value (-211) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 24   C: 6.
+Discriminant value (480) > 0.
+Equation has 2 solutions: -0,26 ; -5,74
+
+A: 43   B: 2   C: 12 
+Disriminant value (-2060) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 23   C: 46 
+Disriminant value (-1311) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 40   C: 18.
+Discriminant value (1528) > 0.
+Equation has 2 solutions: -0,46 ; -39,54
+
+A: 30   B: 49   C: 26 
+Disriminant value (-719) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 27   C: 2.
+Discriminant value (393) > 0.
+Equation has 2 solutions: -0,09 ; -0,56
+
+A: 34   B: 37   C: 2.
+Discriminant value (1097) > 0.
+Equation has 2 solutions: -0,06 ; -1,03
+
+A: 3   B: 43   C: 32.
+Discriminant value (1465) > 0.
+Equation has 2 solutions: -0,79 ; -13,55
+
+A: 34   B: 45   C: 8.
+Discriminant value (937) > 0.
+Equation has 2 solutions: -0,21 ; -1,11
+
+A: 3   B: 12   C: 21 
+Disriminant value (-108) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 32   C: 14 
+Disriminant value (-1048) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 28   C: 22 
+Disriminant value (-536) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 41   C: 20 
+Disriminant value (-719) < 0. 
+Equation does not have solutions.
+
+A: 47   B: 15   C: 37 
+Disriminant value (-6731) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 15   C: 31 
+Disriminant value (-3371) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 47   C: 1.
+Discriminant value (2049) > 0.
+Equation has 2 solutions: -0,02 ; -1,15
+
+A: 12   B: 26   C: 17 
+Disriminant value (-140) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 27   C: 32 
+Disriminant value (-2471) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 1   C: 30 
+Disriminant value (-1319) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 8   C: 6 
+Disriminant value (-488) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 6   C: 10 
+Disriminant value (-84) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 13   C: 7 
+Disriminant value (-531) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 15   C: 21 
+Disriminant value (-111) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 11   C: 35 
+Disriminant value (-439) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 36   C: 22 
+Disriminant value (-1520) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 24   C: 28 
+Disriminant value (-992) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 43   C: 48.
+Discriminant value (1657) > 0.
+Equation has 2 solutions: -1,15 ; -41,85
+
+A: 7   B: 40   C: 36.
+Discriminant value (592) > 0.
+Equation has 2 solutions: -1,12 ; -4,6
+
+A: 3   B: 11   C: 5.
+Discriminant value (61) > 0.
+Equation has 2 solutions: -0,53 ; -3,14
+
+A: 32   B: 4   C: 26 
+Disriminant value (-3312) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 6   C: 33 
+Disriminant value (-5508) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 44   C: 8.
+Discriminant value (1488) > 0.
+Equation has 2 solutions: -0,19 ; -2,95
+
+A: 27   B: 3   C: 2 
+Disriminant value (-207) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 36   C: 31 
+Disriminant value (-1556) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 8   C: 14 
+Disriminant value (-1616) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 43   C: 41 
+Disriminant value (-3235) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 46   C: 27.
+Discriminant value (1036) > 0.
+Equation has 2 solutions: -0,69 ; -3,91
+
+A: 2   B: 22   C: 14.
+Discriminant value (372) > 0.
+Equation has 2 solutions: -0,68 ; -10,32
+
+A: 7   B: 46   C: 16.
+Discriminant value (1668) > 0.
+Equation has 2 solutions: -0,37 ; -6,2
+
+A: 23   B: 21   C: 1.
+Discriminant value (349) > 0.
+Equation has 2 solutions: -0,05 ; -0,86
+
+A: 2   B: 21   C: 10.
+Discriminant value (361) > 0.
+Equation has 2 solutions: -0,5 ; -10
+
+A: 44   B: 12   C: 5 
+Disriminant value (-736) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 18   C: 42 
+Disriminant value (-12) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 37   C: 20.
+Discriminant value (329) > 0.
+Equation has 2 solutions: -0,73 ; -2,12
+
+A: 26   B: 27   C: 7.
+Discriminant value (1) > 0.
+Equation has 2 solutions: -0,5 ; -0,54
+
+A: 16   B: 27   C: 32 
+Disriminant value (-1319) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 22   C: 18 
+Disriminant value (-1100) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 22   C: 7.
+Discriminant value (92) > 0.
+Equation has 2 solutions: -0,44 ; -1,13
+
+A: 49   B: 40   C: 33 
+Disriminant value (-4868) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 6   C: 48 
+Disriminant value (-3420) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 3   C: 31 
+Disriminant value (-5199) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 21   C: 14.
+Discriminant value (441) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 21   B: 35   C: 46 
+Disriminant value (-2639) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 29   C: 25.
+Discriminant value (41) > 0.
+Equation has 2 solutions: -1,41 ; -2,21
+
+A: 49   B: 47   C: 8.
+Discriminant value (641) > 0.
+Equation has 2 solutions: -0,22 ; -0,74
+
+A: 6   B: 26   C: 44 
+Disriminant value (-380) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 40   C: 19.
+Discriminant value (1068) > 0.
+Equation has 2 solutions: -0,52 ; -5,19
+
+A: 34   B: 0   C: 49 
+Disriminant value (-6664) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 38   C: 49 
+Disriminant value (-5024) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 45   C: 21.
+Discriminant value (1773) > 0.
+Equation has 2 solutions: -0,48 ; -14,52
+
+A: 21   B: 34   C: 11.
+Discriminant value (232) > 0.
+Equation has 2 solutions: -0,45 ; -1,17
+
+A: 43   B: 20   C: 34 
+Disriminant value (-5448) < 0. 
+Equation does not have solutions.
+
+A: 38   B: 25   C: 6 
+Disriminant value (-287) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 45   C: 41 
+Disriminant value (-4863) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 14   C: 43 
+Disriminant value (-5824) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 15   C: 25 
+Disriminant value (-4075) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 42   C: 14 
+Disriminant value (-924) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 10   C: 16 
+Disriminant value (-2396) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 8   C: 2 
+Disriminant value (-160) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 16   C: 33 
+Disriminant value (-3968) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 17   C: 40 
+Disriminant value (-2111) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 36   C: 44 
+Disriminant value (-2928) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 5   C: 26 
+Disriminant value (-1327) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 18   C: 0.
+Discriminant value (324) > 0.
+Equation has 2 solutions: 0 ; -0,75
+
+A: 38   B: 15   C: 44 
+Disriminant value (-6463) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 48   C: 36 
+Disriminant value (-1584) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 40   C: 22.
+Discriminant value (1072) > 0.
+Equation has 2 solutions: -0,6 ; -6,06
+
+A: 24   B: 4   C: 2 
+Disriminant value (-176) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 32   C: 23.
+Discriminant value (380) > 0.
+Equation has 2 solutions: -0,89 ; -3,68
+
+A: 45   B: 15   C: 12 
+Disriminant value (-1935) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 6   C: 9 
+Disriminant value (-1080) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 26   C: 28 
+Disriminant value (-1900) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 11   C: 27.
+Discriminant value (13) > 0.
+Equation has 2 solutions: -3,7 ; -7,3
+
+A: 48   B: 29   C: 10 
+Disriminant value (-1079) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 24   C: 23 
+Disriminant value (-3840) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 1   C: 45 
+Disriminant value (-2339) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 1   C: 9 
+Disriminant value (-755) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 25   C: 26 
+Disriminant value (-935) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 41   C: 13.
+Discriminant value (1161) > 0.
+Equation has 2 solutions: -0,35 ; -3,75
+
+A: 37   B: 16   C: 4 
+Disriminant value (-336) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 18   C: 40 
+Disriminant value (-2876) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 43   C: 12.
+Discriminant value (1225) > 0.
+Equation has 2 solutions: -0,31 ; -3
+
+A: 41   B: 14   C: 38 
+Disriminant value (-6036) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 26   C: 36 
+Disriminant value (-1628) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 8   C: 10 
+Disriminant value (-296) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 25   C: 30 
+Disriminant value (-815) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 44   C: 31 
+Disriminant value (-1536) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 24   C: 13 
+Disriminant value (-828) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 15   C: 30 
+Disriminant value (-15) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 13   C: 35 
+Disriminant value (-4311) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 13   C: 45 
+Disriminant value (-2351) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 27   C: 11 
+Disriminant value (-239) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 34   C: 31 
+Disriminant value (-1324) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 22   C: 36 
+Disriminant value (-1100) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 4   C: 24 
+Disriminant value (-656) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 6   C: 17 
+Disriminant value (-1460) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 47   C: 15.
+Discriminant value (1249) > 0.
+Equation has 2 solutions: -0,36 ; -2,57
+
+A: 33   B: 9   C: 22 
+Disriminant value (-2823) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 43   C: 43 
+Disriminant value (-2107) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 11   C: 27 
+Disriminant value (-2687) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 8   C: 1 
+Disriminant value (-64) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 2   C: 13 
+Disriminant value (-100) < 0. 
+Equation does not have solutions.
+
+A: 41   B: 36   C: 30 
+Disriminant value (-3624) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 42   C: 40 
+Disriminant value (-5916) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 17   C: 21 
+Disriminant value (-3827) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 20   C: 19 
+Disriminant value (-2944) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 29   C: 9 
+Disriminant value (-563) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 16   C: 15 
+Disriminant value (-524) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 31   C: 3.
+Discriminant value (721) > 0.
+Equation has 2 solutions: -0,1 ; -1,45
+
+A: 23   B: 49   C: 34 
+Disriminant value (-727) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 43   C: 23.
+Discriminant value (285) > 0.
+Equation has 2 solutions: -0,77 ; -1,76
+
+A: 3   B: 28   C: 14.
+Discriminant value (616) > 0.
+Equation has 2 solutions: -0,53 ; -8,8
+
+A: 35   B: 5   C: 2 
+Disriminant value (-255) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 31   C: 19.
+Discriminant value (201) > 0.
+Equation has 2 solutions: -0,84 ; -2,26
+
+A: 36   B: 17   C: 5 
+Disriminant value (-431) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 34   C: 41 
+Disriminant value (-2780) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 29   C: 23.
+Discriminant value (841) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 24   B: 36   C: 31 
+Disriminant value (-1680) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 19   C: 42 
+Disriminant value (-2663) < 0. 
+Equation does not have solutions.
+
+A: 36   B: 32   C: 20 
+Disriminant value (-1856) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 18   C: 37 
+Disriminant value (-1008) < 0. 
+Equation does not have solutions.
+
+A: 46   B: 30   C: 48 
+Disriminant value (-7932) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 45   C: 38 
+Disriminant value (-559) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 9   C: 14 
+Disriminant value (-311) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 28   C: 48 
+Disriminant value (-2480) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 26   C: 48 
+Disriminant value (-6812) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 45   C: 47.
+Discriminant value (145) > 0.
+Equation has 2 solutions: -1,65 ; -2,85
+
+A: 12   B: 22   C: 20 
+Disriminant value (-476) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 43   C: 7.
+Discriminant value (1541) > 0.
+Equation has 2 solutions: -0,17 ; -3,74
+
+A: 42   B: 35   C: 9 
+Disriminant value (-287) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 49   C: 23.
+Discriminant value (469) > 0.
+Equation has 2 solutions: -0,65 ; -1,68
+
+A: 31   B: 0   C: 12 
+Disriminant value (-1488) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 40   C: 36 
+Disriminant value (-2864) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 7   C: 38 
+Disriminant value (-863) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 43   C: 19.
+Discriminant value (1621) > 0.
+Equation has 2 solutions: -0,46 ; -13,88
+
+A: 8   B: 6   C: 7 
+Disriminant value (-188) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 28   C: 42 
+Disriminant value (-4592) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 25   C: 36 
+Disriminant value (-5567) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 47   C: 46 
+Disriminant value (-2023) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 35   C: 37 
+Disriminant value (-1291) < 0. 
+Equation does not have solutions.
+
+A: 41   B: 25   C: 10 
+Disriminant value (-1015) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 35   C: 9.
+Discriminant value (181) > 0.
+Equation has 2 solutions: -0,37 ; -0,84
+
+A: 41   B: 35   C: 27 
+Disriminant value (-3203) < 0. 
+Equation does not have solutions.
+
+A: 36   B: 7   C: 35 
+Disriminant value (-4991) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 3   C: 38 
+Disriminant value (-1815) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 8   C: 29 
+Disriminant value (-864) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 2   C: 36.
+Discriminant value (4) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 49   B: 9   C: 6 
+Disriminant value (-1095) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 28   C: 23 
+Disriminant value (-688) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 8   C: 3 
+Disriminant value (-380) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 14   C: 5 
+Disriminant value (-124) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 14   C: 32 
+Disriminant value (-6076) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 23   C: 7 
+Disriminant value (-255) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 17   C: 21 
+Disriminant value (-551) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 45   C: 20 
+Disriminant value (-295) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 31   C: 21.
+Discriminant value (373) > 0.
+Equation has 2 solutions: -0,83 ; -3,59
+
+A: 48   B: 14   C: 38 
+Disriminant value (-7100) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 17   C: 32 
+Disriminant value (-1759) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 42   C: 15.
+Discriminant value (1764) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 4   B: 12   C: 7.
+Discriminant value (32) > 0.
+Equation has 2 solutions: -0,79 ; -2,21
+
+A: 36   B: 4   C: 27 
+Disriminant value (-3872) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 20   C: 43 
+Disriminant value (-3728) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 12   C: 39 
+Disriminant value (-4536) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 30   C: 34.
+Discriminant value (84) > 0.
+Equation has 2 solutions: -1,74 ; -3,26
+
+A: 21   B: 40   C: 35 
+Disriminant value (-1340) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 19   C: 14 
+Disriminant value (-479) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 9   C: 47 
+Disriminant value (-6499) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 38   C: 43.
+Discriminant value (1272) > 0.
+Equation has 2 solutions: -1,17 ; -36,83
+
+A: 14   B: 49   C: 47 
+Disriminant value (-231) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 49   C: 22.
+Discriminant value (377) > 0.
+Equation has 2 solutions: -0,64 ; -1,49
+
+A: 16   B: 24   C: 11 
+Disriminant value (-128) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 23   C: 13.
+Discriminant value (529) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 44   B: 5   C: 25 
+Disriminant value (-4375) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 26   C: 18 
+Disriminant value (-1268) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 41   C: 34 
+Disriminant value (-2671) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 45   C: 27.
+Discriminant value (1701) > 0.
+Equation has 2 solutions: -0,63 ; -14,37
+
+A: 46   B: 34   C: 23 
+Disriminant value (-3076) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 18   C: 2.
+Discriminant value (316) > 0.
+Equation has 2 solutions: -0,11 ; -17,89
+
+A: 9   B: 34   C: 15.
+Discriminant value (616) > 0.
+Equation has 2 solutions: -0,51 ; -3,27
+
+A: 33   B: 10   C: 21 
+Disriminant value (-2672) < 0. 
+Equation does not have solutions.
+
+A: 46   B: 7   C: 13 
+Disriminant value (-2343) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 39   C: 6.
+Discriminant value (1137) > 0.
+Equation has 2 solutions: -0,17 ; -2,27
+
+A: 23   B: 21   C: 16 
+Disriminant value (-1031) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 21   C: 14 
+Disriminant value (-735) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 8   C: 32 
+Disriminant value (-4928) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 18   C: 47 
+Disriminant value (-5128) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 10   C: 3 
+Disriminant value (-8) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 26   C: 14 
+Disriminant value (-444) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 15   C: 5 
+Disriminant value (-755) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 40   C: 38.
+Discriminant value (384) > 0.
+Equation has 2 solutions: -1,28 ; -3,72
+
+A: 48   B: 10   C: 44 
+Disriminant value (-8348) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 30   C: 19.
+Discriminant value (672) > 0.
+Equation has 2 solutions: -0,68 ; -9,32
+
+A: 4   B: 16   C: 2.
+Discriminant value (224) > 0.
+Equation has 2 solutions: -0,13 ; -3,87
+
+A: 27   B: 30   C: 23 
+Disriminant value (-1584) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 25   C: 13.
+Discriminant value (105) > 0.
+Equation has 2 solutions: -0,74 ; -1,76
+
+A: 9   B: 12   C: 9 
+Disriminant value (-180) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 30   C: 16 
+Disriminant value (-316) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 23   C: 0.
+Discriminant value (529) > 0.
+Equation has 2 solutions: 0 ; -1,28
+
+A: 17   B: 26   C: 31 
+Disriminant value (-1432) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 17   C: 24 
+Disriminant value (-4319) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 14   C: 30.
+Discriminant value (196) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 27   B: 23   C: 10 
+Disriminant value (-551) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 35   C: 27 
+Disriminant value (-827) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 24   C: 2.
+Discriminant value (472) > 0.
+Equation has 2 solutions: -0,09 ; -1,76
+
+A: 44   B: 32   C: 29 
+Disriminant value (-4080) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 9   C: 1 
+Disriminant value (-39) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 40   C: 3.
+Discriminant value (1588) > 0.
+Equation has 2 solutions: -0,08 ; -39,92
+
+A: 45   B: 38   C: 10 
+Disriminant value (-356) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 29   C: 36 
+Disriminant value (-2327) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 35   C: 4.
+Discriminant value (521) > 0.
+Equation has 2 solutions: -0,14 ; -0,66
+
+A: 38   B: 5   C: 48 
+Disriminant value (-7271) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 26   C: 15 
+Disriminant value (-1004) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 32   C: 1.
+Discriminant value (852) > 0.
+Equation has 2 solutions: -0,03 ; -0,71
+
+A: 2   B: 39   C: 26.
+Discriminant value (1313) > 0.
+Equation has 2 solutions: -0,69 ; -18,81
+
+A: 32   B: 6   C: 5 
+Disriminant value (-604) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 23   C: 41 
+Disriminant value (-1603) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 37   C: 16.
+Discriminant value (89) > 0.
+Equation has 2 solutions: -0,69 ; -1,16
+
+A: 29   B: 47   C: 27 
+Disriminant value (-923) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 5   C: 25 
+Disriminant value (-1975) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 5   C: 43 
+Disriminant value (-3243) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 24   C: 49 
+Disriminant value (-4128) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 25   C: 18 
+Disriminant value (-959) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 16   C: 5.
+Discriminant value (176) > 0.
+Equation has 2 solutions: -0,34 ; -3,66
+
+A: 13   B: 36   C: 27 
+Disriminant value (-108) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 49   C: 0.
+Discriminant value (2401) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 26   B: 13   C: 32 
+Disriminant value (-3159) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 8   C: 6 
+Disriminant value (-56) < 0. 
+Equation does not have solutions.
+
+A: 45   B: 24   C: 48 
+Disriminant value (-8064) < 0. 
+Equation does not have solutions.
+
+A: 38   B: 8   C: 8 
+Disriminant value (-1152) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 7   C: 21 
+Disriminant value (-1631) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 23   C: 26 
+Disriminant value (-3631) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 27   C: 15.
+Discriminant value (309) > 0.
+Equation has 2 solutions: -0,67 ; -3,18
+
+A: 27   B: 9   C: 31 
+Disriminant value (-3267) < 0. 
+Equation does not have solutions.
+
+A: 36   B: 9   C: 6 
+Disriminant value (-783) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 6   C: 1 
+Disriminant value (-104) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 29   C: 47 
+Disriminant value (-6491) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 44   C: 41 
+Disriminant value (-2492) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 14   C: 47 
+Disriminant value (-7888) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 29   C: 0.
+Discriminant value (841) > 0.
+Equation has 2 solutions: 0 ; -0,78
+
+A: 1   B: 34   C: 16.
+Discriminant value (1092) > 0.
+Equation has 2 solutions: -0,48 ; -33,52
+
+A: 10   B: 33   C: 9.
+Discriminant value (729) > 0.
+Equation has 2 solutions: -0,3 ; -3
+
+A: 34   B: 23   C: 12 
+Disriminant value (-1103) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 42   C: 21.
+Discriminant value (1764) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 35   B: 49   C: 4.
+Discriminant value (1841) > 0.
+Equation has 2 solutions: -0,09 ; -1,31
+
+A: 1   B: 18   C: 48.
+Discriminant value (132) > 0.
+Equation has 2 solutions: -3,26 ; -14,74
+
+A: 0   B: 9   C: 17.
+Discriminant value (81) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 47   B: 48   C: 28 
+Disriminant value (-2960) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 43   C: 12.
+Discriminant value (1369) > 0.
+Equation has 2 solutions: -0,3 ; -4
+
+A: 29   B: 46   C: 9.
+Discriminant value (1072) > 0.
+Equation has 2 solutions: -0,23 ; -1,36
+
+A: 29   B: 19   C: 48 
+Disriminant value (-5207) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 26   C: 24 
+Disriminant value (-668) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 26   C: 26 
+Disriminant value (-780) < 0. 
+Equation does not have solutions.
+
+A: 46   B: 1   C: 32 
+Disriminant value (-5887) < 0. 
+Equation does not have solutions.
+
+A: 38   B: 39   C: 36 
+Disriminant value (-3951) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 41   C: 45 
+Disriminant value (-2819) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 41   C: 45 
+Disriminant value (-4979) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 37   C: 19 
+Disriminant value (-2279) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 4   C: 36 
+Disriminant value (-4736) < 0. 
+Equation does not have solutions.
+
+A: 38   B: 49   C: 39 
+Disriminant value (-3527) < 0. 
+Equation does not have solutions.
+
+A: 47   B: 5   C: 27 
+Disriminant value (-5051) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 20   C: 23.
+Discriminant value (124) > 0.
+Equation has 2 solutions: -1,48 ; -5,19
+
+A: 23   B: 20   C: 22 
+Disriminant value (-1624) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 37   C: 41 
+Disriminant value (-3387) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 3   C: 8 
+Disriminant value (-663) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 8   C: 9 
+Disriminant value (-1160) < 0. 
+Equation does not have solutions.
+
+A: 41   B: 35   C: 1.
+Discriminant value (1061) > 0.
+Equation has 2 solutions: -0,03 ; -0,82
+
+A: 16   B: 41   C: 4.
+Discriminant value (1425) > 0.
+Equation has 2 solutions: -0,1 ; -2,46
+
+A: 13   B: 30   C: 32 
+Disriminant value (-764) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 31   C: 21 
+Disriminant value (-1391) < 0. 
+Equation does not have solutions.
+
+A: 38   B: 26   C: 27 
+Disriminant value (-3428) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 49   C: 46 
+Disriminant value (-4407) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 35   C: 18.
+Discriminant value (865) > 0.
+Equation has 2 solutions: -0,56 ; -6,44
+
+A: 13   B: 2   C: 21 
+Disriminant value (-1088) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 8   C: 4 
+Disriminant value (-288) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 27   C: 33.
+Discriminant value (201) > 0.
+Equation has 2 solutions: -1,6 ; -5,15
+
+A: 11   B: 48   C: 45.
+Discriminant value (324) > 0.
+Equation has 2 solutions: -1,36 ; -3
+
+A: 26   B: 46   C: 14.
+Discriminant value (660) > 0.
+Equation has 2 solutions: -0,39 ; -1,38
+
+A: 37   B: 30   C: 13 
+Disriminant value (-1024) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 39   C: 40 
+Disriminant value (-1999) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 44   C: 39 
+Disriminant value (-4304) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 41   C: 11.
+Discriminant value (1681) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 14   B: 34   C: 3.
+Discriminant value (988) > 0.
+Equation has 2 solutions: -0,09 ; -2,34
+
+A: 12   B: 28   C: 22 
+Disriminant value (-272) < 0. 
+Equation does not have solutions.
+
+A: 41   B: 27   C: 32 
+Disriminant value (-4519) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 44   C: 33 
+Disriminant value (-2024) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 9   C: 3 
+Disriminant value (-507) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 17   C: 32 
+Disriminant value (-5855) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 11   C: 29 
+Disriminant value (-2895) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 49   C: 19.
+Discriminant value (1489) > 0.
+Equation has 2 solutions: -0,43 ; -3,65
+
+A: 32   B: 33   C: 46 
+Disriminant value (-4799) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 23   C: 8 
+Disriminant value (-335) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 21   C: 17 
+Disriminant value (-1667) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 39   C: 42 
+Disriminant value (-5703) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 49   C: 19.
+Discriminant value (121) > 0.
+Equation has 2 solutions: -0,63 ; -1
+
+A: 22   B: 35   C: 18 
+Disriminant value (-359) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 6   C: 35 
+Disriminant value (-4444) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 22   C: 30 
+Disriminant value (-2996) < 0. 
+Equation does not have solutions.
+
+A: 36   B: 41   C: 26 
+Disriminant value (-2063) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 24   C: 29 
+Disriminant value (-236) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 1   C: 34 
+Disriminant value (-4215) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 29   C: 45 
+Disriminant value (-5099) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 13   C: 4 
+Disriminant value (-247) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 49   C: 22.
+Discriminant value (377) > 0.
+Equation has 2 solutions: -0,64 ; -1,49
+
+A: 16   B: 6   C: 19 
+Disriminant value (-1180) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 18   C: 18 
+Disriminant value (-396) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 3   C: 26 
+Disriminant value (-1239) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 30   C: 42 
+Disriminant value (-780) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 2   C: 11 
+Disriminant value (-1492) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 41   C: 32 
+Disriminant value (-367) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 24   C: 47 
+Disriminant value (-5440) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 12   C: 37 
+Disriminant value (-5332) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 47   C: 19.
+Discriminant value (1601) > 0.
+Equation has 2 solutions: -0,44 ; -5,44
+
+A: 24   B: 45   C: 22 
+Disriminant value (-87) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 8   C: 7 
+Disriminant value (-328) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 13   C: 16 
+Disriminant value (-663) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 26   C: 23 
+Disriminant value (-244) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 44   C: 20.
+Discriminant value (1296) > 0.
+Equation has 2 solutions: -0,5 ; -5
+
+A: 3   B: 21   C: 20.
+Discriminant value (201) > 0.
+Equation has 2 solutions: -1,14 ; -5,86
+
+A: 41   B: 49   C: 26 
+Disriminant value (-1863) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 10   C: 22 
+Disriminant value (-2804) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 41   C: 25 
+Disriminant value (-419) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 28   C: 43 
+Disriminant value (-3516) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 2   C: 20 
+Disriminant value (-2556) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 37   C: 7.
+Discriminant value (25) > 0.
+Equation has 2 solutions: -0,33 ; -0,44
+
+A: 4   B: 45   C: 22.
+Discriminant value (1673) > 0.
+Equation has 2 solutions: -0,51 ; -10,74
+
+A: 35   B: 20   C: 39 
+Disriminant value (-5060) < 0. 
+Equation does not have solutions.
+
+A: 45   B: 5   C: 15 
+Disriminant value (-2675) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 23   C: 29 
+Disriminant value (-399) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 34   C: 41 
+Disriminant value (-3108) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 16   C: 48 
+Disriminant value (-2816) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 40   C: 34 
+Disriminant value (-4112) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 43   C: 17 
+Disriminant value (-1483) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 38   C: 35 
+Disriminant value (-3036) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 27   C: 23 
+Disriminant value (-1295) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 9   C: 6.
+Discriminant value (33) > 0.
+Equation has 2 solutions: -0,81 ; -3,69
+
+A: 13   B: 49   C: 25.
+Discriminant value (1101) > 0.
+Equation has 2 solutions: -0,61 ; -3,16
+
+A: 48   B: 6   C: 28 
+Disriminant value (-5340) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 38   C: 4.
+Discriminant value (852) > 0.
+Equation has 2 solutions: -0,12 ; -0,91
+
+A: 7   B: 12   C: 17 
+Disriminant value (-332) < 0. 
+Equation does not have solutions.
+
+A: 45   B: 48   C: 44 
+Disriminant value (-5616) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 15   C: 36 
+Disriminant value (-63) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 5   C: 47 
+Disriminant value (-4111) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 4   C: 2 
+Disriminant value (-160) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 3   C: 32 
+Disriminant value (-503) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 22   C: 27.
+Discriminant value (160) > 0.
+Equation has 2 solutions: -1,56 ; -5,77
+
+A: 41   B: 6   C: 14 
+Disriminant value (-2260) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 13   C: 35 
+Disriminant value (-2911) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 18   C: 10 
+Disriminant value (-276) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 5   C: 1 
+Disriminant value (-51) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 42   C: 30 
+Disriminant value (-1716) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 36   C: 39.
+Discriminant value (1296) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 40   B: 19   C: 12 
+Disriminant value (-1559) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 30   C: 4.
+Discriminant value (308) > 0.
+Equation has 2 solutions: -0,17 ; -0,64
+
+A: 9   B: 40   C: 44.
+Discriminant value (16) > 0.
+Equation has 2 solutions: -2 ; -2,44
+
+A: 22   B: 43   C: 2.
+Discriminant value (1673) > 0.
+Equation has 2 solutions: -0,05 ; -1,91
+
+A: 45   B: 33   C: 15 
+Disriminant value (-1611) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 15   C: 6 
+Disriminant value (-423) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 22   C: 35.
+Discriminant value (64) > 0.
+Equation has 2 solutions: -2,33 ; -5
+
+A: 8   B: 37   C: 46 
+Disriminant value (-103) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 2   C: 0.
+Discriminant value (4) > 0.
+Equation has 2 solutions: 0 ; -0,08
+
+A: 45   B: 42   C: 11 
+Disriminant value (-216) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 4   C: 17 
+Disriminant value (-1480) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 13   C: 3 
+Disriminant value (-347) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 4   C: 25 
+Disriminant value (-1484) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 13   C: 23 
+Disriminant value (-659) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 43   C: 24 
+Disriminant value (-1991) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 24   C: 21 
+Disriminant value (-12) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 2   C: 27 
+Disriminant value (-3776) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 46   C: 13.
+Discriminant value (920) > 0.
+Equation has 2 solutions: -0,34 ; -1,66
+
+A: 3   B: 32   C: 32.
+Discriminant value (640) > 0.
+Equation has 2 solutions: -1,12 ; -9,55
+
+A: 15   B: 11   C: 27 
+Disriminant value (-1499) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 14   C: 47 
+Disriminant value (-368) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 0   C: 39 
+Disriminant value (-5148) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 2   C: 20 
+Disriminant value (-2796) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 11   C: 10 
+Disriminant value (-359) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 43   C: 9.
+Discriminant value (769) > 0.
+Equation has 2 solutions: -0,25 ; -1,18
+
+A: 12   B: 18   C: 44 
+Disriminant value (-1788) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 18   C: 28 
+Disriminant value (-2140) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 9   C: 39 
+Disriminant value (-4443) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 48   C: 7.
+Discriminant value (1380) > 0.
+Equation has 2 solutions: -0,16 ; -1,29
+
+A: 3   B: 39   C: 30.
+Discriminant value (1161) > 0.
+Equation has 2 solutions: -0,82 ; -12,18
+
+A: 21   B: 49   C: 43 
+Disriminant value (-1211) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 5   C: 49 
+Disriminant value (-9383) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 6   C: 42 
+Disriminant value (-4164) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 22   C: 22 
+Disriminant value (-2596) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 23   C: 41.
+Discriminant value (529) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 17   B: 43   C: 3.
+Discriminant value (1645) > 0.
+Equation has 2 solutions: -0,07 ; -2,46
+
+A: 3   B: 41   C: 13.
+Discriminant value (1525) > 0.
+Equation has 2 solutions: -0,32 ; -13,34
+
+A: 38   B: 43   C: 42 
+Disriminant value (-4535) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 24   C: 4 
+Disriminant value (-208) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 0   C: 2 
+Disriminant value (-56) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 31   C: 12 
+Disriminant value (-527) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 40   C: 12 
+Disriminant value (-272) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 32   C: 37 
+Disriminant value (-1344) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 36   C: 11.
+Discriminant value (856) > 0.
+Equation has 2 solutions: -0,34 ; -3,26
+
+A: 1   B: 37   C: 46.
+Discriminant value (1185) > 0.
+Equation has 2 solutions: -1,29 ; -35,71
+
+A: 6   B: 28   C: 35 
+Disriminant value (-56) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 16   C: 5 
+Disriminant value (-704) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 0   C: 48 
+Disriminant value (-768) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 33   C: 6.
+Discriminant value (681) > 0.
+Equation has 2 solutions: -0,2 ; -1,74
+
+A: 0   B: 49   C: 31.
+Discriminant value (2401) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 44   B: 18   C: 6 
+Disriminant value (-732) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 4   C: 40 
+Disriminant value (-6384) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 10   C: 32 
+Disriminant value (-1052) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 0   C: 11 
+Disriminant value (-1232) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 43   C: 5.
+Discriminant value (1529) > 0.
+Equation has 2 solutions: -0,12 ; -2,57
+
+A: 2   B: 36   C: 5.
+Discriminant value (1256) > 0.
+Equation has 2 solutions: -0,14 ; -17,86
+
+A: 46   B: 42   C: 46 
+Disriminant value (-6700) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 8   C: 33 
+Disriminant value (-2312) < 0. 
+Equation does not have solutions.
+
+A: 47   B: 26   C: 31 
+Disriminant value (-5152) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 22   C: 7.
+Discriminant value (120) > 0.
+Equation has 2 solutions: -0,42 ; -1,27
+
+A: 6   B: 16   C: 32 
+Disriminant value (-512) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 15   C: 17 
+Disriminant value (-183) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 11   C: 33 
+Disriminant value (-407) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 46   C: 17.
+Discriminant value (1776) > 0.
+Equation has 2 solutions: -0,39 ; -8,81
+
+A: 2   B: 20   C: 16.
+Discriminant value (272) > 0.
+Equation has 2 solutions: -0,88 ; -9,12
+
+A: 43   B: 38   C: 6.
+Discriminant value (412) > 0.
+Equation has 2 solutions: -0,21 ; -0,68
+
+A: 43   B: 15   C: 46 
+Disriminant value (-7687) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 4   C: 6.
+Discriminant value (16) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 34   B: 25   C: 10 
+Disriminant value (-735) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 42   C: 27 
+Disriminant value (-720) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 45   C: 37.
+Discriminant value (841) > 0.
+Equation has 2 solutions: -1 ; -4,63
+
+A: 24   B: 22   C: 34 
+Disriminant value (-2780) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 9   C: 27 
+Disriminant value (-2943) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 47   C: 24 
+Disriminant value (-1343) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 41   C: 45 
+Disriminant value (-2279) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 16   C: 38 
+Disriminant value (-4000) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 3   C: 38 
+Disriminant value (-2575) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 20   C: 7 
+Disriminant value (-272) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 5   C: 11 
+Disriminant value (-459) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 21   C: 39 
+Disriminant value (-3615) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 31   C: 18.
+Discriminant value (457) > 0.
+Equation has 2 solutions: -0,69 ; -3,74
+
+A: 6   B: 46   C: 0.
+Discriminant value (2116) > 0.
+Equation has 2 solutions: 0 ; -7,67
+
+A: 29   B: 27   C: 47 
+Disriminant value (-4723) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 15   C: 28 
+Disriminant value (-3359) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 5   C: 17 
+Disriminant value (-1879) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 27   C: 13 
+Disriminant value (-363) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 6   C: 9 
+Disriminant value (-324) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 5   C: 39 
+Disriminant value (-3251) < 0. 
+Equation does not have solutions.
+
+A: 38   B: 33   C: 25 
+Disriminant value (-2711) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 13   C: 16 
+Disriminant value (-1751) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 2   C: 37 
+Disriminant value (-3252) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 29   C: 15 
+Disriminant value (-1379) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 16   C: 44 
+Disriminant value (-800) < 0. 
+Equation does not have solutions.
+
+A: 45   B: 48   C: 38 
+Disriminant value (-4536) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 35   C: 37 
+Disriminant value (-4695) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 46   C: 15.
+Discriminant value (1576) > 0.
+Equation has 2 solutions: -0,35 ; -4,76
+
+A: 39   B: 40   C: 28 
+Disriminant value (-2768) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 15   C: 15 
+Disriminant value (-2655) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 35   C: 26 
+Disriminant value (-1895) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 17   C: 12 
+Disriminant value (-1103) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 49   C: 14.
+Discriminant value (1001) > 0.
+Equation has 2 solutions: -0,35 ; -1,61
+
+A: 31   B: 9   C: 13 
+Disriminant value (-1531) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 41   C: 25 
+Disriminant value (-2319) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 15   C: 10.
+Discriminant value (145) > 0.
+Equation has 2 solutions: -0,74 ; -6,76
+
+A: 18   B: 15   C: 7 
+Disriminant value (-279) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 31   C: 20 
+Disriminant value (-719) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 28   C: 37.
+Discriminant value (636) > 0.
+Equation has 2 solutions: -1,39 ; -26,61
+
+A: 9   B: 40   C: 23.
+Discriminant value (772) > 0.
+Equation has 2 solutions: -0,68 ; -3,77
+
+A: 38   B: 23   C: 37 
+Disriminant value (-5095) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 7   C: 44 
+Disriminant value (-3823) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 26   C: 49 
+Disriminant value (-6968) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 19   C: 49 
+Disriminant value (-5715) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 9   C: 25 
+Disriminant value (-2219) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 18   C: 4 
+Disriminant value (-60) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 37   C: 24 
+Disriminant value (-2375) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 29   C: 49 
+Disriminant value (-2491) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 8   C: 4 
+Disriminant value (-64) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 27   C: 38 
+Disriminant value (-31) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 16   C: 8 
+Disriminant value (-512) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 42   C: 36 
+Disriminant value (-3996) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 18   C: 33 
+Disriminant value (-3108) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 13   C: 38 
+Disriminant value (-4543) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 37   C: 46 
+Disriminant value (-655) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 47   C: 22.
+Discriminant value (1593) > 0.
+Equation has 2 solutions: -0,51 ; -6,21
+
+A: 45   B: 27   C: 10 
+Disriminant value (-1071) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 19   C: 3 
+Disriminant value (-23) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 20   C: 44 
+Disriminant value (-8048) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 13   C: 48 
+Disriminant value (-6935) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 33   C: 48 
+Disriminant value (-6399) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 6   C: 3 
+Disriminant value (-84) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 32   C: 16 
+Disriminant value (-1536) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 47   C: 49 
+Disriminant value (-5435) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 8   C: 24 
+Disriminant value (-1952) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 5   C: 42 
+Disriminant value (-5855) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 0   C: 11 
+Disriminant value (-132) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 10   C: 0.
+Discriminant value (100) > 0.
+Equation has 2 solutions: 0 ; -0,31
+
+A: 28   B: 42   C: 46 
+Disriminant value (-3388) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 42   C: 22.
+Discriminant value (1412) > 0.
+Equation has 2 solutions: -0,55 ; -9,95
+
+A: 42   B: 38   C: 5.
+Discriminant value (604) > 0.
+Equation has 2 solutions: -0,16 ; -0,74
+
+A: 34   B: 41   C: 29 
+Disriminant value (-2263) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 0   C: 31 
+Disriminant value (-4960) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 17   C: 14 
+Disriminant value (-2063) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 6   C: 30 
+Disriminant value (-564) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 11   C: 11 
+Disriminant value (-319) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 13   C: 15 
+Disriminant value (-1571) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 33   C: 12.
+Discriminant value (1041) > 0.
+Equation has 2 solutions: -0,37 ; -32,63
+
+A: 37   B: 7   C: 23 
+Disriminant value (-3355) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 32   C: 14 
+Disriminant value (-1664) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 35   C: 40.
+Discriminant value (105) > 0.
+Equation has 2 solutions: -1,77 ; -3,23
+
+A: 44   B: 47   C: 8.
+Discriminant value (801) > 0.
+Equation has 2 solutions: -0,21 ; -0,86
+
+A: 44   B: 36   C: 16 
+Disriminant value (-1520) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 45   C: 4.
+Discriminant value (1321) > 0.
+Equation has 2 solutions: -0,1 ; -0,92
+
+A: 10   B: 11   C: 33 
+Disriminant value (-1199) < 0. 
+Equation does not have solutions.
+
+A: 46   B: 26   C: 4 
+Disriminant value (-60) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 18   C: 30 
+Disriminant value (-2076) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 25   C: 29 
+Disriminant value (-3435) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 40   C: 5.
+Discriminant value (1480) > 0.
+Equation has 2 solutions: -0,13 ; -6,54
+
+A: 42   B: 47   C: 34 
+Disriminant value (-3503) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 41   C: 18.
+Discriminant value (1321) > 0.
+Equation has 2 solutions: -0,47 ; -7,73
+
+A: 16   B: 35   C: 31 
+Disriminant value (-759) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 11   C: 9 
+Disriminant value (-743) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 15   C: 25 
+Disriminant value (-1875) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 34   C: 17 
+Disriminant value (-1836) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 41   C: 22.
+Discriminant value (801) > 0.
+Equation has 2 solutions: -0,63 ; -3,47
+
+A: 29   B: 41   C: 30 
+Disriminant value (-1799) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 28   C: 14 
+Disriminant value (-280) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 22   C: 10 
+Disriminant value (-836) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 37   C: 6.
+Discriminant value (1105) > 0.
+Equation has 2 solutions: -0,17 ; -3,19
+
+A: 3   B: 1   C: 39 
+Disriminant value (-467) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 38   C: 4.
+Discriminant value (932) > 0.
+Equation has 2 solutions: -0,12 ; -1,07
+
+A: 36   B: 44   C: 25 
+Disriminant value (-1664) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 21   C: 15.
+Discriminant value (321) > 0.
+Equation has 2 solutions: -0,77 ; -9,73
+
+A: 44   B: 48   C: 2.
+Discriminant value (1952) > 0.
+Equation has 2 solutions: -0,04 ; -1,05
+
+A: 5   B: 40   C: 40.
+Discriminant value (800) > 0.
+Equation has 2 solutions: -1,17 ; -6,83
+
+A: 11   B: 46   C: 49 
+Disriminant value (-40) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 13   C: 5 
+Disriminant value (-471) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 36   C: 12.
+Discriminant value (1104) > 0.
+Equation has 2 solutions: -0,35 ; -8,65
+
+A: 3   B: 32   C: 12.
+Discriminant value (880) > 0.
+Equation has 2 solutions: -0,39 ; -10,28
+
+A: 20   B: 12   C: 23 
+Disriminant value (-1696) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 17   C: 13.
+Discriminant value (185) > 0.
+Equation has 2 solutions: -0,85 ; -7,65
+
+A: 35   B: 12   C: 46 
+Disriminant value (-6296) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 23   C: 46 
+Disriminant value (-1863) < 0. 
+Equation does not have solutions.
+
+A: 46   B: 27   C: 19 
+Disriminant value (-2767) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 24   C: 29 
+Disriminant value (-1048) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 28   C: 31 
+Disriminant value (-704) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 49   C: 40 
+Disriminant value (-639) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 21   C: 38 
+Disriminant value (-623) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 28   C: 2.
+Discriminant value (520) > 0.
+Equation has 2 solutions: -0,08 ; -0,77
+
+A: 41   B: 33   C: 11 
+Disriminant value (-715) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 31   C: 8.
+Discriminant value (577) > 0.
+Equation has 2 solutions: -0,29 ; -2,29
+
+A: 41   B: 42   C: 30 
+Disriminant value (-3156) < 0. 
+Equation does not have solutions.
+
+A: 38   B: 19   C: 28 
+Disriminant value (-3895) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 48   C: 23 
+Disriminant value (-1744) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 35   C: 36.
+Discriminant value (937) > 0.
+Equation has 2 solutions: -1,1 ; -16,4
+
+A: 35   B: 39   C: 11 
+Disriminant value (-19) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 41   C: 4.
+Discriminant value (1169) > 0.
+Equation has 2 solutions: -0,11 ; -1,17
+
+A: 31   B: 0   C: 13 
+Disriminant value (-1612) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 44   C: 46 
+Disriminant value (-3952) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 1   C: 34 
+Disriminant value (-3399) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 22   C: 39 
+Disriminant value (-6224) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 33   C: 45 
+Disriminant value (-5211) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 23   C: 31 
+Disriminant value (-835) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 23   C: 8 
+Disriminant value (-1007) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 25   C: 1.
+Discriminant value (613) > 0.
+Equation has 2 solutions: -0,04 ; -8,29
+
+A: 17   B: 5   C: 36 
+Disriminant value (-2423) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 48   C: 38.
+Discriminant value (2000) > 0.
+Equation has 2 solutions: -0,82 ; -23,18
+
+A: 41   B: 8   C: 42 
+Disriminant value (-6824) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 31   C: 30.
+Discriminant value (121) > 0.
+Equation has 2 solutions: -1,43 ; -3
+
+A: 45   B: 8   C: 48 
+Disriminant value (-8576) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 12   C: 18 
+Disriminant value (-2304) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 1   C: 26 
+Disriminant value (-4575) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 17   C: 1.
+Discriminant value (157) > 0.
+Equation has 2 solutions: -0,07 ; -0,45
+
+A: 40   B: 24   C: 16 
+Disriminant value (-1984) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 33   C: 17 
+Disriminant value (-883) < 0. 
+Equation does not have solutions.
+
+A: 45   B: 27   C: 25 
+Disriminant value (-3771) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 15   C: 38 
+Disriminant value (-1447) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 23   C: 3.
+Discriminant value (409) > 0.
+Equation has 2 solutions: -0,14 ; -2,16
+
+A: 45   B: 1   C: 13 
+Disriminant value (-2339) < 0. 
+Equation does not have solutions.
+
+A: 47   B: 27   C: 2.
+Discriminant value (353) > 0.
+Equation has 2 solutions: -0,09 ; -0,49
+
+A: 15   B: 15   C: 14 
+Disriminant value (-615) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 14   C: 10 
+Disriminant value (-1124) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 9   C: 24 
+Disriminant value (-3759) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 34   C: 38 
+Disriminant value (-2492) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 11   C: 23 
+Disriminant value (-3007) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 11   C: 24 
+Disriminant value (-1991) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 12   C: 4 
+Disriminant value (-256) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 34   C: 43.
+Discriminant value (468) > 0.
+Equation has 2 solutions: -1,55 ; -6,95
+
+A: 9   B: 24   C: 39 
+Disriminant value (-828) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 48   C: 49 
+Disriminant value (-440) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 35   C: 39 
+Disriminant value (-647) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 24   C: 9 
+Disriminant value (-1188) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 45   C: 19.
+Discriminant value (1949) > 0.
+Equation has 2 solutions: -0,43 ; -44,57
+
+A: 6   B: 4   C: 18 
+Disriminant value (-416) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 36   C: 30.
+Discriminant value (1296) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 0   B: 25   C: 11.
+Discriminant value (625) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 29   B: 22   C: 40 
+Disriminant value (-4156) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 22   C: 15 
+Disriminant value (-1856) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 10   C: 31 
+Disriminant value (-5852) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 23   C: 39 
+Disriminant value (-2591) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 25   C: 10 
+Disriminant value (-215) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 12   C: 48 
+Disriminant value (-4656) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 35   C: 36 
+Disriminant value (-5831) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 21   C: 15 
+Disriminant value (-399) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 18   C: 7.
+Discriminant value (212) > 0.
+Equation has 2 solutions: -0,43 ; -4,07
+
+A: 35   B: 4   C: 47 
+Disriminant value (-6564) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 9   C: 49 
+Disriminant value (-2271) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 35   C: 25 
+Disriminant value (-1575) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 23   C: 12.
+Discriminant value (97) > 0.
+Equation has 2 solutions: -0,73 ; -1,82
+
+A: 23   B: 1   C: 14 
+Disriminant value (-1287) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 30   C: 22 
+Disriminant value (-1564) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 34   C: 28 
+Disriminant value (-2204) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 25   C: 24 
+Disriminant value (-47) < 0. 
+Equation does not have solutions.
+
+A: 32   B: 0   C: 39 
+Disriminant value (-4992) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 14   C: 1.
+Discriminant value (100) > 0.
+Equation has 2 solutions: -0,08 ; -0,5
+
+A: 24   B: 34   C: 3.
+Discriminant value (868) > 0.
+Equation has 2 solutions: -0,09 ; -1,32
+
+A: 7   B: 12   C: 6 
+Disriminant value (-24) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 8   C: 13 
+Disriminant value (-1652) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 42   C: 40 
+Disriminant value (-4636) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 16   C: 38 
+Disriminant value (-4912) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 25   C: 34 
+Disriminant value (-4135) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 36   C: 40 
+Disriminant value (-2224) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 24   C: 33 
+Disriminant value (-5100) < 0. 
+Equation does not have solutions.
+
+A: 29   B: 28   C: 28 
+Disriminant value (-2464) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 30   C: 8.
+Discriminant value (196) > 0.
+Equation has 2 solutions: -0,36 ; -1
+
+A: 10   B: 3   C: 20 
+Disriminant value (-791) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 35   C: 38 
+Disriminant value (-2423) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 15   C: 38 
+Disriminant value (-1143) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 44   C: 22.
+Discriminant value (1232) > 0.
+Equation has 2 solutions: -0,56 ; -4,94
+
+A: 8   B: 40   C: 42.
+Discriminant value (256) > 0.
+Equation has 2 solutions: -1,5 ; -3,5
+
+A: 38   B: 22   C: 9 
+Disriminant value (-884) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 46   C: 25 
+Disriminant value (-1384) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 2   C: 28 
+Disriminant value (-444) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 30   C: 10.
+Discriminant value (460) > 0.
+Equation has 2 solutions: -0,39 ; -2,34
+
+A: 19   B: 28   C: 33 
+Disriminant value (-1724) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 10   C: 28 
+Disriminant value (-2924) < 0. 
+Equation does not have solutions.
+
+A: 4   B: 29   C: 39.
+Discriminant value (217) > 0.
+Equation has 2 solutions: -1,78 ; -5,47
+
+A: 19   B: 10   C: 31 
+Disriminant value (-2256) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 26   C: 9.
+Discriminant value (676) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 45   B: 14   C: 41 
+Disriminant value (-7184) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 34   C: 33 
+Disriminant value (-1088) < 0. 
+Equation does not have solutions.
+
+A: 41   B: 40   C: 6.
+Discriminant value (616) > 0.
+Equation has 2 solutions: -0,19 ; -0,79
+
+A: 19   B: 37   C: 33 
+Disriminant value (-1139) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 5   C: 1 
+Disriminant value (-107) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 12   C: 4 
+Disriminant value (-528) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 39   C: 37 
+Disriminant value (-2475) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 30   C: 33.
+Discriminant value (240) > 0.
+Equation has 2 solutions: -1,45 ; -4,55
+
+A: 44   B: 3   C: 10 
+Disriminant value (-1751) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 18   C: 11.
+Discriminant value (192) > 0.
+Equation has 2 solutions: -0,69 ; -5,31
+
+A: 28   B: 35   C: 20 
+Disriminant value (-1015) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 8   C: 37 
+Disriminant value (-2156) < 0. 
+Equation does not have solutions.
+
+A: 36   B: 43   C: 45 
+Disriminant value (-4631) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 28   C: 38 
+Disriminant value (-3168) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 8   C: 23 
+Disriminant value (-2420) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 21   C: 24 
+Disriminant value (-3783) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 27   C: 47 
+Disriminant value (-6227) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 22   C: 37 
+Disriminant value (-3364) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 40   C: 34 
+Disriminant value (-1392) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 23   C: 31 
+Disriminant value (-463) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 38   C: 22 
+Disriminant value (-580) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 41   C: 2.
+Discriminant value (1329) > 0.
+Equation has 2 solutions: -0,05 ; -0,88
+
+A: 13   B: 17   C: 46 
+Disriminant value (-2103) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 5   C: 19 
+Disriminant value (-1039) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 1   C: 11 
+Disriminant value (-351) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 27   C: 22 
+Disriminant value (-3495) < 0. 
+Equation does not have solutions.
+
+A: 9   B: 49   C: 32.
+Discriminant value (1249) > 0.
+Equation has 2 solutions: -0,76 ; -4,69
+
+A: 35   B: 15   C: 40 
+Disriminant value (-5375) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 1   C: 12 
+Disriminant value (-623) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 43   C: 18 
+Disriminant value (-527) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 28   C: 19.
+Discriminant value (556) > 0.
+Equation has 2 solutions: -0,74 ; -8,6
+
+A: 14   B: 3   C: 39 
+Disriminant value (-2175) < 0. 
+Equation does not have solutions.
+
+A: 15   B: 32   C: 16.
+Discriminant value (64) > 0.
+Equation has 2 solutions: -0,8 ; -1,33
+
+A: 21   B: 31   C: 4.
+Discriminant value (625) > 0.
+Equation has 2 solutions: -0,14 ; -1,33
+
+A: 28   B: 23   C: 22 
+Disriminant value (-1935) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 17   C: 21 
+Disriminant value (-2063) < 0. 
+Equation does not have solutions.
+
+A: 25   B: 23   C: 12 
+Disriminant value (-671) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 48   C: 23.
+Discriminant value (1292) > 0.
+Equation has 2 solutions: -0,55 ; -3,82
+
+A: 49   B: 37   C: 22 
+Disriminant value (-2943) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 30   C: 39 
+Disriminant value (-3936) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 30   C: 23 
+Disriminant value (-2688) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 10   C: 27 
+Disriminant value (-2924) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 44   C: 48 
+Disriminant value (-7472) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 33   C: 45 
+Disriminant value (-2691) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 37   C: 18.
+Discriminant value (1009) > 0.
+Equation has 2 solutions: -0,52 ; -6,88
+
+A: 28   B: 7   C: 42 
+Disriminant value (-4655) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 35   C: 33 
+Disriminant value (-1151) < 0. 
+Equation does not have solutions.
+
+A: 41   B: 7   C: 20 
+Disriminant value (-3231) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 41   C: 29.
+Discriminant value (1101) > 0.
+Equation has 2 solutions: -0,78 ; -7,42
+
+A: 46   B: 15   C: 15 
+Disriminant value (-2535) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 33   C: 2.
+Discriminant value (961) > 0.
+Equation has 2 solutions: -0,06 ; -2
+
+A: 27   B: 32   C: 0.
+Discriminant value (1024) > 0.
+Equation has 2 solutions: 0 ; -1,19
+
+A: 30   B: 49   C: 12.
+Discriminant value (961) > 0.
+Equation has 2 solutions: -0,3 ; -1,33
+
+A: 45   B: 28   C: 23 
+Disriminant value (-3356) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 4   C: 40 
+Disriminant value (-3664) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 6   C: 10 
+Disriminant value (-644) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 20   C: 30 
+Disriminant value (-200) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 13   C: 44 
+Disriminant value (-5111) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 48   C: 23.
+Discriminant value (1752) > 0.
+Equation has 2 solutions: -0,51 ; -7,49
+
+A: 3   B: 22   C: 18.
+Discriminant value (268) > 0.
+Equation has 2 solutions: -0,94 ; -6,4
+
+A: 47   B: 3   C: 29 
+Disriminant value (-5443) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 4   C: 49 
+Disriminant value (-6452) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 28   C: 5 
+Disriminant value (-56) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 47   C: 7.
+Discriminant value (1705) > 0.
+Equation has 2 solutions: -0,16 ; -2,45
+
+A: 29   B: 22   C: 7 
+Disriminant value (-328) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 17   C: 2.
+Discriminant value (209) > 0.
+Equation has 2 solutions: -0,13 ; -1,57
+
+A: 29   B: 37   C: 35 
+Disriminant value (-2691) < 0. 
+Equation does not have solutions.
+
+A: 18   B: 41   C: 44 
+Disriminant value (-1487) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 36   C: 19 
+Disriminant value (-1288) < 0. 
+Equation does not have solutions.
+
+A: 7   B: 20   C: 33 
+Disriminant value (-524) < 0. 
+Equation does not have solutions.
+
+A: 27   B: 26   C: 26 
+Disriminant value (-2132) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 47   C: 25 
+Disriminant value (-2091) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 40   C: 49 
+Disriminant value (-7024) < 0. 
+Equation does not have solutions.
+
+A: 40   B: 24   C: 28 
+Disriminant value (-3904) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 36   C: 23.
+Discriminant value (836) > 0.
+Equation has 2 solutions: -0,71 ; -6,49
+
+A: 22   B: 0   C: 41 
+Disriminant value (-3608) < 0. 
+Equation does not have solutions.
+
+A: 37   B: 45   C: 30 
+Disriminant value (-2415) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 23   C: 35 
+Disriminant value (-2271) < 0. 
+Equation does not have solutions.
+
+A: 33   B: 28   C: 12 
+Disriminant value (-800) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 48   C: 18 
+Disriminant value (-144) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 35   C: 7.
+Discriminant value (385) > 0.
+Equation has 2 solutions: -0,26 ; -0,91
+
+A: 21   B: 40   C: 21 
+Disriminant value (-164) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 36   C: 25 
+Disriminant value (-1804) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 16   C: 27 
+Disriminant value (-3092) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 39   C: 12.
+Discriminant value (1377) > 0.
+Equation has 2 solutions: -0,32 ; -12,68
+
+A: 6   B: 13   C: 4.
+Discriminant value (73) > 0.
+Equation has 2 solutions: -0,37 ; -1,8
+
+A: 21   B: 12   C: 36 
+Disriminant value (-2880) < 0. 
+Equation does not have solutions.
+
+A: 28   B: 19   C: 25 
+Disriminant value (-2439) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 6   C: 2.
+Discriminant value (12) > 0.
+Equation has 2 solutions: -0,42 ; -1,58
+
+A: 41   B: 10   C: 18 
+Disriminant value (-2852) < 0. 
+Equation does not have solutions.
+
+A: 12   B: 9   C: 42 
+Disriminant value (-1935) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 10   C: 39 
+Disriminant value (-4580) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 33   C: 46 
+Disriminant value (-2591) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 41   C: 13.
+Discriminant value (1629) > 0.
+Equation has 2 solutions: -0,32 ; -40,68
+
+A: 15   B: 5   C: 29 
+Disriminant value (-1715) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 16   C: 34 
+Disriminant value (-152) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 26   C: 15 
+Disriminant value (-644) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 13   C: 35 
+Disriminant value (-951) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 1   C: 16 
+Disriminant value (-1983) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 18   C: 34 
+Disriminant value (-3892) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 39   C: 26 
+Disriminant value (-455) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 18   C: 7.
+Discriminant value (156) > 0.
+Equation has 2 solutions: -0,46 ; -2,54
+
+A: 35   B: 22   C: 29 
+Disriminant value (-3576) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 35   C: 30 
+Disriminant value (-1535) < 0. 
+Equation does not have solutions.
+
+A: 8   B: 19   C: 21 
+Disriminant value (-311) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 12   C: 13 
+Disriminant value (-1000) < 0. 
+Equation does not have solutions.
+
+A: 46   B: 0   C: 39 
+Disriminant value (-7176) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 18   C: 33 
+Disriminant value (-1920) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 4   C: 45 
+Disriminant value (-524) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 48   C: 8.
+Discriminant value (2112) > 0.
+Equation has 2 solutions: -0,17 ; -7,83
+
+A: 22   B: 39   C: 14.
+Discriminant value (289) > 0.
+Equation has 2 solutions: -0,5 ; -1,27
+
+A: 11   B: 32   C: 1.
+Discriminant value (980) > 0.
+Equation has 2 solutions: -0,03 ; -2,88
+
+A: 37   B: 9   C: 36 
+Disriminant value (-5247) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 17   C: 44 
+Disriminant value (-3407) < 0. 
+Equation does not have solutions.
+
+A: 5   B: 48   C: 40.
+Discriminant value (1504) > 0.
+Equation has 2 solutions: -0,92 ; -8,68
+
+A: 34   B: 0   C: 43 
+Disriminant value (-5848) < 0. 
+Equation does not have solutions.
+
+A: 14   B: 9   C: 38 
+Disriminant value (-2047) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 35   C: 18.
+Discriminant value (1081) > 0.
+Equation has 2 solutions: -0,53 ; -16,97
+
+A: 44   B: 1   C: 20 
+Disriminant value (-3519) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 3   C: 14 
+Disriminant value (-2343) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 29   C: 23 
+Disriminant value (-171) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 0   C: 46 
+Disriminant value (-3680) < 0. 
+Equation does not have solutions.
+
+A: 16   B: 46   C: 37 
+Disriminant value (-252) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 34   C: 3.
+Discriminant value (928) > 0.
+Equation has 2 solutions: -0,09 ; -1,7
+
+A: 26   B: 24   C: 32 
+Disriminant value (-2752) < 0. 
+Equation does not have solutions.
+
+A: 45   B: 12   C: 20 
+Disriminant value (-3456) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 18   C: 4 
+Disriminant value (-348) < 0. 
+Equation does not have solutions.
+
+A: 1   B: 42   C: 39.
+Discriminant value (1608) > 0.
+Equation has 2 solutions: -0,95 ; -41,05
+
+A: 19   B: 20   C: 3.
+Discriminant value (172) > 0.
+Equation has 2 solutions: -0,18 ; -0,87
+
+A: 45   B: 17   C: 30 
+Disriminant value (-5111) < 0. 
+Equation does not have solutions.
+
+A: 31   B: 45   C: 5.
+Discriminant value (1405) > 0.
+Equation has 2 solutions: -0,12 ; -1,33
+
+A: 22   B: 10   C: 38 
+Disriminant value (-3244) < 0. 
+Equation does not have solutions.
+
+A: 20   B: 34   C: 48 
+Disriminant value (-2684) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 18   C: 3 
+Disriminant value (-192) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 44   C: 25.
+Discriminant value (1336) > 0.
+Equation has 2 solutions: -0,62 ; -6,71
+
+A: 35   B: 25   C: 11 
+Disriminant value (-915) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 48   C: 38 
+Disriminant value (-3016) < 0. 
+Equation does not have solutions.
+
+A: 0   B: 0   C: 34
+Discriminant value (0) = 0. 
+Equation has only 1 solution: не число
+
+A: 9   B: 9   C: 37 
+Disriminant value (-1251) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 0   C: 30 
+Disriminant value (-4080) < 0. 
+Equation does not have solutions.
+
+A: 43   B: 20   C: 28 
+Disriminant value (-4416) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 38   C: 39.
+Discriminant value (508) > 0.
+Equation has 2 solutions: -1,29 ; -5,04
+
+A: 47   B: 4   C: 14 
+Disriminant value (-2616) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 25   C: 28 
+Disriminant value (-4303) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 48   C: 0.
+Discriminant value (2304) > 0.
+Equation has 2 solutions: 0 ; -2,29
+
+A: 0   B: 45   C: 47.
+Discriminant value (2025) > 0.
+Equation has 2 solutions: не число ; -∞
+
+A: 14   B: 34   C: 44 
+Disriminant value (-1308) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 9   C: 18 
+Disriminant value (-2943) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 30   C: 44 
+Disriminant value (-6492) < 0. 
+Equation does not have solutions.
+
+A: 21   B: 12   C: 0.
+Discriminant value (144) > 0.
+Equation has 2 solutions: 0 ; -0,57
+
+A: 1   B: 36   C: 33.
+Discriminant value (1164) > 0.
+Equation has 2 solutions: -0,94 ; -35,06
+
+A: 17   B: 0   C: 47 
+Disriminant value (-3196) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 49   C: 6.
+Discriminant value (1825) > 0.
+Equation has 2 solutions: -0,13 ; -1,91
+
+A: 35   B: 37   C: 21 
+Disriminant value (-1571) < 0. 
+Equation does not have solutions.
+
+A: 46   B: 41   C: 23 
+Disriminant value (-2551) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 28   C: 1.
+Discriminant value (744) > 0.
+Equation has 2 solutions: -0,04 ; -2,76
+
+A: 33   B: 9   C: 14 
+Disriminant value (-1767) < 0. 
+Equation does not have solutions.
+
+A: 39   B: 20   C: 16 
+Disriminant value (-2096) < 0. 
+Equation does not have solutions.
+
+A: 35   B: 1   C: 10 
+Disriminant value (-1399) < 0. 
+Equation does not have solutions.
+
+A: 10   B: 14   C: 8 
+Disriminant value (-124) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 25   C: 41 
+Disriminant value (-6591) < 0. 
+Equation does not have solutions.
+
+A: 13   B: 43   C: 39 
+Disriminant value (-179) < 0. 
+Equation does not have solutions.
+
+A: 44   B: 4   C: 48 
+Disriminant value (-8432) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 25   C: 46.
+Discriminant value (73) > 0.
+Equation has 2 solutions: -2,74 ; -5,59
+
+A: 41   B: 28   C: 46 
+Disriminant value (-6760) < 0. 
+Equation does not have solutions.
+
+A: 22   B: 45   C: 18.
+Discriminant value (441) > 0.
+Equation has 2 solutions: -0,55 ; -1,5
+
+A: 44   B: 32   C: 1.
+Discriminant value (848) > 0.
+Equation has 2 solutions: -0,03 ; -0,69
+
+A: 43   B: 38   C: 3.
+Discriminant value (928) > 0.
+Equation has 2 solutions: -0,09 ; -0,8
+
+A: 36   B: 11   C: 15 
+Disriminant value (-2039) < 0. 
+Equation does not have solutions.
+
+A: 17   B: 31   C: 48 
+Disriminant value (-2303) < 0. 
+Equation does not have solutions.
+
+A: 36   B: 14   C: 34 
+Disriminant value (-4700) < 0. 
+Equation does not have solutions.
+
+A: 48   B: 41   C: 12 
+Disriminant value (-623) < 0. 
+Equation does not have solutions.
+
+A: 30   B: 32   C: 48 
+Disriminant value (-4736) < 0. 
+Equation does not have solutions.
+
+A: 34   B: 16   C: 24 
+Disriminant value (-3008) < 0. 
+Equation does not have solutions.
+
+A: 3   B: 30   C: 33.
+Discriminant value (504) > 0.
+Equation has 2 solutions: -1,26 ; -8,74
+
+A: 17   B: 48   C: 41 
+Disriminant value (-484) < 0. 
+Equation does not have solutions.
+
+A: 19   B: 13   C: 6 
+Disriminant value (-287) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 15   C: 32 
+Disriminant value (-5151) < 0. 
+Equation does not have solutions.
+
+A: 6   B: 1   C: 37 
+Disriminant value (-887) < 0. 
+Equation does not have solutions.
+
+A: 38   B: 27   C: 31 
+Disriminant value (-3983) < 0. 
+Equation does not have solutions.
+
+A: 23   B: 26   C: 22 
+Disriminant value (-1348) < 0. 
+Equation does not have solutions.
+
+A: 49   B: 16   C: 10 
+Disriminant value (-1704) < 0. 
+Equation does not have solutions.
+
+A: 11   B: 43   C: 37.
+Discriminant value (221) > 0.
+Equation has 2 solutions: -1,28 ; -2,63
+
+A: 34   B: 42   C: 12.
+Discriminant value (132) > 0.
+Equation has 2 solutions: -0,45 ; -0,79
+
+A: 20   B: 10   C: 16 
+Disriminant value (-1180) < 0. 
+Equation does not have solutions.
+
+A: 26   B: 39   C: 8.
+Discriminant value (689) > 0.
+Equation has 2 solutions: -0,25 ; -1,25
+
+A: 19   B: 18   C: 13 
+Disriminant value (-664) < 0. 
+Equation does not have solutions.
+
+A: 24   B: 47   C: 18.
+Discriminant value (481) > 0.
+Equation has 2 solutions: -0,52 ; -1,44
+
+A: 42   B: 44   C: 49 
+Disriminant value (-6296) < 0. 
+Equation does not have solutions.
+
+A: 2   B: 41   C: 39.
+Discriminant value (1369) > 0.
+Equation has 2 solutions: -1 ; -19,5
+

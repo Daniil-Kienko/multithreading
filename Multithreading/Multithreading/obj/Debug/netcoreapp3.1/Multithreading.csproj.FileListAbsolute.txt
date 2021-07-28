@@ -1,0 +1,15 @@
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.exe
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.deps.json
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.json
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.runtimeconfig.dev.json
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.dll
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\Multithreading.pdb
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\bin\Debug\netcoreapp3.1\EquationSolver.dll
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csprojAssemblyReference.cache
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfoInputs.cache
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.AssemblyInfo.cs
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csproj.CoreCompileInputs.cache
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.csproj.CopyComplete
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.dll
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.pdb
+D:\Programing\SoftServe\Новая папка\multithreading\Multithreading\Multithreading\obj\Debug\netcoreapp3.1\Multithreading.genruntimeconfig.cache
